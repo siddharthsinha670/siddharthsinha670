@@ -51,7 +51,7 @@ An aspiring Software Developer focused on mastering Data Structures & Algorithms
 
 ## 📊 GitHub Statistics
 
-![Siddharth's GitHub Stats]((https://github.com/siddharthsinha670/siddharthsinha670/edit/main/README.md))
+![Siddharth's GitHub Stats](([https://github.com/siddharthsinha670/siddharthsinha670/edit/master/README.md]))
 
 ## 🛠️ Featured Project
 ### 🚀 [Zenith — Premium Habit Tracker](https://github.com/siddharthsinha670/Zenith-habit-tracker)
