@@ -1,11 +1,55 @@
-# Hi, I'm Siddharth Sinha! 👋
+# Hi, I'm Siddharth Sinha 👋
 
-Welcome to my profile. I am a developer setting up my GitHub workspace and sharing my coding journey.
+### BCA Student • Software Developer • Problem Solver
 
-- 💻 **Languages I Know:** C, C++, and Java
-- 🛠️ **Tools:** Git & GitHub (Basics)
-- 🚀 **Currently Learning:** Advanced Coding and Data Structures
-- 📂 **Repositories:** Check out my projects to see my code!
+Building practical software solutions with modern technologies while exploring Core Programming, DSA, and Web Development.
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/__siddharthsinha/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/__siddharthsinha)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+---
+
+## 🧠 About Me
+
+* 🎓 **BCA Student** passionate about backend logic and solving complex problems.
+* 💻 Currently sharpening my skills in **Data Structures & Algorithms (DSA)**.
+* 🚀 Interested in building robust software and backend systems.
+
+### 📚 Currently Learning
+* Advanced Data Structures & Algorithms
+* System Design Fundamentals
+* Full Stack Web Integration
+
+---
+
+## 🛠️ My Tech Stack
+
+### 🔤 Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 💻 Frontend / Web
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=__siddharthsinha&show_icons=true&theme=gotham)
 
 ## 🛠️ Featured Project
 ### 🚀 [Zenith — Premium Habit Tracker](https://github.com/siddharthsinha670/Zenith-habit-tracker)
