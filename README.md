@@ -50,9 +50,6 @@ An aspiring Software Developer focused on mastering Data Structures & Algorithms
 ---
 
 ## 📊 GitHub Statistics
-
-![Siddharth's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddharthsinha670&theme=gotham)
-
 <!-- Graph Card (Jo chal raha hai) -->
 ![Siddharth's Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddharthsinha670&theme=gotham)
 
@@ -61,6 +58,9 @@ An aspiring Software Developer focused on mastering Data Structures & Algorithms
 
 ### 💻 Language Breakdown
 ![Siddharth's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siddharthsinha670&theme=gotham)
+
+### 🚀 DSA Progress (LeetCode)
+![Siddharth's LeetCode Stats](https://leetcode-stats-api.herokuapp.com/siddharthsinha670)
 
 
 ## 🛠️ Featured Project
