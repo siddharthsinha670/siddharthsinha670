@@ -52,16 +52,16 @@ An aspiring Software Developer focused on mastering Data Structures & Algorithms
 ## 📊 GitHub Statistics
 
 ![Siddharth's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddharthsinha670&theme=gotham)
-## 📊 GitHub Statistics
 
-<!-- Aapka current graph jo chal raha hai -->
+<!-- Graph Card (Jo chal raha hai) -->
 ![Siddharth's Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddharthsinha670&theme=gotham)
 
-<!-- Naya extra stats card jo baaki details dikhaega -->
-![Siddharth's Extra Stats](https://github-readme-stats.vercel.app/api?username=siddharthsinha670&show_icons=true&theme=gotham&count_private=true)
+<!-- Naya Stable Streak Card (Bina error ke load hoga) -->
+![Siddharth's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddharthsinha670&theme=gotham)
 
-### 🏆 GitHub Trophies
-[![Siddharth's Trophies](https://github-profile-trophy.vercel.app/?username=siddharthsinha670&theme=gotham&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+### 💻 Language Breakdown
+![Siddharth's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siddharthsinha670&theme=gotham)
+
 
 ## 🛠️ Featured Project
 ### 🚀 [Zenith — Premium Habit Tracker](https://github.com/siddharthsinha670/Zenith-habit-tracker)
