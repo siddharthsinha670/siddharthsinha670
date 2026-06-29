@@ -51,7 +51,7 @@ An aspiring Software Developer focused on mastering Data Structures & Algorithms
 
 ## 📊 GitHub Statistics
 
-![Siddharth's GitHub Stats](github.com/siddharthsinha670)
+![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthsinha670&layout=compact&theme=radial)
 ## 🛠️ Featured Project
 ### 🚀 [Zenith — Premium Habit Tracker](https://github.com/siddharthsinha670/Zenith-habit-tracker)
 A premium, interactive, and beautifully designed web-based Habit Tracker featuring dark/light modes, interactive streak tracking, dynamic charts, and an elegant responsive UI.
