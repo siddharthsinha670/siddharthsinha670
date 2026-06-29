@@ -8,7 +8,12 @@ Welcome to my profile. I am a developer setting up my GitHub workspace and shari
 - 📂 **Repositories:** Check out my projects to see my code!
 
 ## 🛠️ Featured Project
-### 🚀 [Zenith — Premium Habit Tracker] (https://github.com/siddharthsinha670/Zenith-habit-tracker)
+### 🚀 [Zenith — Premium Habit Tracker](https://github.com/siddharthisinha670/Zenith-habit-tracker)
+
+A premium, interactive, and beautifully designed web-based Habit Tracker featuring dark/light modes, interactive streak tracking, dynamic charts, and an elegant responsive UI.
+
+*   🖥️ **Live Preview:** https://siddharthisinha670.github.io/Zenith-habit-tracker/
+*   💻 **Tech Stack:** HTML5, CSS3 (Custom Variables, CSS Grid, Flexbox), JavaScript (ES6+), Chart.js (Data Visualization)
 
 A premium, interactive, and beautifully designed web-based Habit Tracker featuring dark/light modes, interactive streak tracking, dynamic charts, and an elegant responsive UI.
 
