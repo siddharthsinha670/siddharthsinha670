@@ -68,13 +68,6 @@ A premium, interactive, and beautifully designed web-based Habit Tracker featuri
 
 - 🖥️ **Live Preview:** *https://siddharthsinha670.github.io/Zenith-habit-tracker/*
 - 💻 **Tech Stack:** HTML5, CSS3 (Custom Variables, CSS Grid, Flexbox), JavaScript (ES6+), Chart.js (Data Visualization)
-
-#### ✨ Key Features
-- **Dynamic Themes:** Fully customized Dark and Light themes with seamless transitions.
-- **Data Analytics:** Beautiful data representation using `Chart.js` for weekly/monthly analytics.
-- **Interactive Streak Burners:** Flame animations and circular progress bars to visualize daily consistency.
-- **Modern UI Architecture:** Glassmorphism accents, smooth CSS spring-beziers, and fully responsive layout designed for all devices.
-- **Data Management:** In-built custom calendar tracking with custom category pills.
-
+  
 ---
 Feel free to look around and connect!
