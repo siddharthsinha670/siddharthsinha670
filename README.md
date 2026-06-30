@@ -57,7 +57,7 @@ Building practical software solutions with modern technologies while exploring C
 ![Siddharth's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siddharthsinha670&theme=gotham)
 
 ### 🚀 DSA Progress (LeetCode)
-![Siddharth's LeetCode Stats](https://leetcode-stats-api.herokuapp.com/siddharthsinha670)
+![Siddharth's LeetCode Stats](https://leetcard.jacoblin.cool/__siddharthsinha?theme=nord&font=Ubuntu)
 
 ## 🛠️ Featured Project
 ### 🚀 [Zenith — Premium Habit Tracker](https://github.com/siddharthsinha670/Zenith-habit-tracker)
