@@ -12,6 +12,9 @@ An aspiring Software Developer focused on mastering Data Structures & Algorithms
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://github.com/siddharthsinha670)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharthsinha670)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthsinha670@gmail.com)
+<a href="https://siddharthsinha670.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-VIEW%20PROJECT-000000?style=for-the-badge" alt="Live Portfolio" />
+</a>
 
 ---
 
