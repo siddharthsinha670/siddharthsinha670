@@ -1,4 +1,3 @@
-@ -1,11 +1,55 @@
 # Hi, I'm Siddharth Sinha 👋
 
 ### BCA Student • Software Developer • Problem Solver
@@ -52,17 +51,13 @@ Building practical software solutions with modern technologies while exploring C
 
 ---
 
-![Siddharth's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddharthsinha670&theme=gotham)
-
-
 <!-- Graph Card (Jo chal raha hai) -->
 ![Siddharth's Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddharthsinha670&theme=gotham)
 
-<!-- Naya Stable Streak Card (Bina error ke load hoga) -->
-![Siddharth's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddharthsinha670&theme=gotham)
-
-### 💻 Language Breakdown
 ![Siddharth's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siddharthsinha670&theme=gotham)
+
+### 🚀 DSA Progress (LeetCode)
+![Siddharth's LeetCode Stats](https://leetcode-stats-api.herokuapp.com/siddharthsinha670)
 
 ## 🛠️ Featured Project
 ### 🚀 [Zenith — Premium Habit Tracker](https://github.com/siddharthsinha670/Zenith-habit-tracker)
