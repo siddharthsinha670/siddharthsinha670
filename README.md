@@ -2,18 +2,7 @@
 
 ### BCA Student • Software Developer • Problem Solver
 
-Building practical software solutions with modern technologies while exploring Core Programming, DSA, and Web Development.
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-sinha-007530343)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC466?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/siddharthsinha61)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://github.com/siddharthsinha670)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharthsinha670)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthsinha670@gmail.com)
-
+An aspiring Software Developer focused on mastering Data Structures & Algorithms in Java/C++ while building clean, responsive web applications.
 ---
 
 ## 🧠 About Me
@@ -26,6 +15,17 @@ Building practical software solutions with modern technologies while exploring C
 * Advanced Data Structures & Algorithms
 * System Design Fundamentals
 * Full Stack Web Integration
+
+---
+
+## 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-2ec866?style=for-the-badge)](https://siddharthsinha670.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-sinha-007530343)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC466?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/siddharthsinha61)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://github.com/siddharthsinha670)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharthsinha670)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthsinha670@gmail.com)
 
 ---
 
@@ -61,3 +61,7 @@ Building practical software solutions with modern technologies while exploring C
 
 ## 🛠️ Featured Project
 ### 🚀 [Zenith — Premium Habit Tracker](https://github.com/siddharthsinha670/Zenith-habit-tracker)
+- 🖥️ **Live Preview:** *https://siddharthsinha670.github.io/Zenith-habit-tracker/*
+- 💻 **Tech Stack:** HTML5, CSS3 (Custom Variables, CSS Grid, Flexbox), JavaScript (ES6+), Chart.js (Data Visualization)
+
+Feel free to look around and connect!
