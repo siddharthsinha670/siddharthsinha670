@@ -31,6 +31,7 @@
 
 ### ⚙️ Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+
 ---
 
 ## 🛠️ Featured Project
@@ -50,9 +51,6 @@ A premium, interactive web-based ecosystem engineered to monitor personal routin
 ![Siddharth's Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddharthsinha670&theme=gotham)
 
 ![Siddharth's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siddharthsinha670&theme=gotham)
-
-### 🧩 Competitive Programming & DSA Metrics
-![Siddharth's LeetCode Stats](https://leetcard.jacoblin.cool/__siddharthsinha?theme=nord&font=Ubuntu)
 
 ---
 
