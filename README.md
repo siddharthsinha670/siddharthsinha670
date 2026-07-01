@@ -50,7 +50,7 @@ A premium, interactive web-based ecosystem engineered to monitor personal routin
 ### 📈 GitHub Ecosystem Insights
 ![Siddharth's Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddharthsinha670&theme=gotham)
 
-![Siddharth's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siddharthsinha670&theme=gotham) [![Siddharth's Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddharthsinha670&theme=gotham)](https://git.io/streak-stats) ![Total Commits](https://img.shields.io/github/commits-all/siddharthsinha670/Zenith-habit-tracker?label=PROJECT%20COMMITS&style=flat-square&color=2ec866)
+![Siddharth's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siddharthsinha670&theme=gotham) [![Siddharth's Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddharthsinha670&theme=gotham)](https://git.io/streak-stats) 🌐 **[View My Live Numerical Contribution Dashboard](https://github.com/siddharthsinha670?tab=overview&from=2026-06-01&to=2026-06-30)**
 
 ---
 
