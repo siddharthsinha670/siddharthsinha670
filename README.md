@@ -52,9 +52,7 @@ A premium, interactive web-based ecosystem engineered to monitor personal routin
 
 ![Siddharth's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siddharthsinha670&theme=gotham) 
 [![Siddharth's Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddharthsinha670&theme=gotham)](https://git.io/streak-stats) 
-<a href="https://www.hackerrank.com/siddharthsinha61">
-  <img src="https://hackerrank-badges.github.io/api/v1/badges.svg?username=siddharthsinha61" alt="HackerRank Badges" />
-</a>
+
 
 ---
 
@@ -62,9 +60,8 @@ A premium, interactive web-based ecosystem engineered to monitor personal routin
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-2ec866?style=for-the-badge)](https://siddharthsinha-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-sinha-007530343)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC466?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/siddharthsinha61) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/__siddharthsinha/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharthsinha670) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthsinha670@gmail.com)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC466?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/siddharthsinha61)
+
 
 ---
 *Feel free to look around, explore my repositories, or reach out for collaborative opportunities!*
