@@ -52,7 +52,9 @@ A premium, interactive web-based ecosystem engineered to monitor personal routin
 
 ![Siddharth's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siddharthsinha670&theme=gotham) 
 [![Siddharth's Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddharthsinha670&theme=gotham)](https://git.io/streak-stats) 
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC466?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/siddharthsinha61)
+<a href="https://www.hackerrank.com/siddharthsinha61">
+  <img src="https://hackerrank-badges.github.io/api/v1/badges.svg?username=siddharthsinha61" alt="HackerRank Badges" />
+</a>
 
 ---
 
