@@ -48,10 +48,16 @@ A premium, interactive web-based ecosystem engineered to monitor personal routin
 ## 📊 Analytics & Progress
 
 ### 📈 GitHub Ecosystem Insights
-![Siddharth's Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddharthsinha670&theme=gotham)
+### 📈 GitHub Ecosystem Insights
 
-![Siddharth's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siddharthsinha670&theme=gotham) 
-![Siddharth's Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddharthsinha670&theme=gotham ) 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharthsinha670&show_icons=true&theme=gotham&description_lines_count=1" alt="Siddharth's GitHub Stats" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthsinha670&theme=gotham" alt="Siddharth's Streak" height="195" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthsinha670&layout=compact&theme=gotham" alt="Siddharth's Top Languages" height="165" />
+</p>
 
 
 ---
