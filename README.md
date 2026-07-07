@@ -49,11 +49,10 @@ A premium, interactive web-based ecosystem engineered to monitor personal routin
 
 ### 📈 GitHub Ecosystem Insights
 
-### 📈 GitHub Ecosystem Insights
-
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthsinha670&theme=algolia" alt="Siddharth's Streak" height="195" />
 </p>
+
 ---
 
 ## 🌐 Connect With Me
