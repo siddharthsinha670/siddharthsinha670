@@ -51,12 +51,12 @@ A premium, interactive web-based ecosystem engineered to monitor personal routin
 ### 📈 GitHub Ecosystem Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddharthsinha670&show_icons=true&theme=gotham&description_lines_count=1" alt="Siddharth's GitHub Stats" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthsinha670&theme=gotham" alt="Siddharth's Streak" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharthsinha670&show_icons=true&theme=tokyonight" height="195" alt="Siddharth's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthsinha670&theme=tokyonight" height="195" alt="Siddharth's Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthsinha670&layout=compact&theme=gotham" alt="Siddharth's Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthsinha670&layout=compact&theme=tokyonight" height="165" alt="Siddharth's Top Languages" />
 </p>
 
 
