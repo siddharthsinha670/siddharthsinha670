@@ -49,12 +49,12 @@ A premium, interactive web-based ecosystem engineered to monitor personal routin
 
 ### 📈 GitHub Ecosystem Insights
 
+### 📈 GitHub Ecosystem Insights
 
-[![Siddharth's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=siddharthsinha670&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddharthsinha670&theme=algolia)](https://git.io/streak-stats)
-
-
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=siddharthsinha670&show_icons=true&theme=algolia" alt="Siddharth's GitHub Stats" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthsinha670&theme=algolia" alt="Siddharth's Streak" height="195" />
+</p>
 ---
 
 ## 🌐 Connect With Me
