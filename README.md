@@ -46,16 +46,6 @@ A premium, interactive web-based ecosystem engineered to monitor personal routin
 
 ---
 
-## 📊 Analytics & Progress
-
-### 📈 GitHub Ecosystem Insights
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthsinha670&theme=algolia" alt="Siddharth's Streak" height="195" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-2ec866?style=for-the-badge)](https://siddharthsinha-portfolio.vercel.app/)
