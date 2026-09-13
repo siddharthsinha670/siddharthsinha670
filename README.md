@@ -1,39 +1,76 @@
 # Hi, I'm Siddharth Sinha 👋
 
-> **BCA Student | Software Developer | Problem Solver**  
-> An aspiring Software Engineer focused on mastering Data Structures & Algorithms while architecting clean, responsive web applications.
-
-
----
-
-## 🧠 About Me
-
-* 🎓 **Academic Path:** BCA Student passionate about backend logic and solving complex algorithmic problems.
-* 💻 **Core Focus:** Sharpening core problem-solving concepts through rigorous training in **Data Structures & Algorithms (DSA)** using Java and C++.
-* 🚀 **Aspirations:** Building highly scalable software systems and robust backend integrations.
-
-### 📚 Current Learning Sprint
-* ⚡ Advanced Data Structures & Graph Algorithms
-* 🏗️ System Design Fundamentals (High-Level Architecture)
-* 🌐 Full Stack Web Integration & API Design
+### BCA Student | Aspiring Python Full Stack Developer
+Currently on an intensive journey mastering **Python from scratch**, strengthening problem-solving foundations, and stepping into backend web development.
 
 ---
 
-## 🛠️ My Tech Stack
+### 🧠 About Me
 
-### 🔤 Core Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-
-### 💻 Frontend & Web
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🗄️ Database Systems
-![MySQL](https://img.shields.io/badge/mysql-%23005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+* 🎓 **Academic Background:** BCA student passionate about software engineering and backend systems.
+* 🌱 **Current Focus:** Deep diving into **Python fundamentals**, Object-Oriented Programming (OOP), and writing clean, structured code.
+* 💡 **Mindset:** Building strong logic first, then scaling into full-stack web applications and REST APIs.
+* 🎯 **Goal:** Becoming a proficient **Python Full Stack Developer** by building real-world projects step by step.
 
 ---
+
+### 📚 What I'm Learning Right Now
+
+* 🐍 Python Syntax, Data Structures (Lists, Dicts, Tuples) & OOP Concepts
+* ⚙️ Problem Solving & Algorithmic Logic
+* 🌐 HTML5, CSS3 & JavaScript fundamentals for web integration
+* 🔜 *Next on roadmap:* Python Backend Frameworks (Django / Flask) & Relational Databases
+
+---
+
+### 🛠️ My Tech Stack
+
+**Currently Working With**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Developer Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 🛠️ Featured Project
+
+#### 🚀 Zenith — Premium Habit Tracker
+An interactive web-based tracker designed to monitor daily habits with dynamic data visualization.
+
+* 🖥️ **Live Demo:** [Zenith Preview](https://siddharthsinha670.github.io/Zenith-habit-tracker)
+* 💻 **Tech Stack:** HTML5, CSS3, JavaScript, Chart.js
+* ⚙️ **Highlights:** Visual dashboards, state persistence, and responsive UI design.
+
+*(⚡ Currently building my first Python project — coming soon!)*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharthsinha670&show_icons=true&theme=tokyonight&hide_border=true" alt="Siddharth's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthsinha670&theme=tokyonight&hide_border=true" alt="Siddharth's GitHub streak" width="48%" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ## 🛠️ Featured Project
 
