@@ -34,23 +34,10 @@ Currently on an intensive journey mastering **Python from scratch**, strengtheni
 **Developer Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 🛠️ Featured Project
-
-#### 🚀 Zenith — Premium Habit Tracker
-An interactive web-based tracker designed to monitor daily habits with dynamic data visualization.
-
-* 🖥️ **Live Demo:** [Zenith Preview](https://siddharthsinha670.github.io/Zenith-habit-tracker)
-* 💻 **Tech Stack:** HTML5, CSS3, JavaScript, Chart.js
-* ⚙️ **Highlights:** Visual dashboards, state persistence, and responsive UI design.
-
-*(⚡ Currently building my first Python project — coming soon!)*
-
----
 
 ### 📊 GitHub Stats
 
@@ -61,16 +48,7 @@ An interactive web-based tracker designed to monitor daily habits with dynamic d
 
 ---
 
-### 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
 
 ## 🛠️ Featured Project
 
