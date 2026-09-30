@@ -49,7 +49,6 @@ Currently on an intensive journey mastering **Python from scratch**, strengtheni
 ---
 
 
-
 ## 🛠️ Featured Project
 
 ### 🚀 [Zenith — Premium Habit Tracker](https://github.com/siddharthsinha670/Zenith-habit-tracker)
