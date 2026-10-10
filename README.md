@@ -41,7 +41,7 @@ Currently on an intensive journey mastering **Python from scratch**, strengtheni
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthsinha670&theme=tokyonight&hide_border=true" alt="Siddharth's GitHub streak" width="48%" />
 
 ![Most Active Repos](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siddharthsinha670&theme=tokyonight)
